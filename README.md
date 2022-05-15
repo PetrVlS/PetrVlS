@@ -1,5 +1,5 @@
 - 👋 Всем привет, меня зовут Петр
-- 👀 Я развиватюсь как Java Developer
+- 👀 Я развиваюсь как Java Developer
 - 🌱 В данный момент времени прохожу обучение на OTUS.ru:
     - 🎓 Окончил курс по Java Developer. Basic
     - 👨‍🎓 На финишной прямой курс по Java Developer. Professional
